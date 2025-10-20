@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **AI & Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saurabh-singh740](https://github.com/saurabh-singh740)
+- 👨‍💻 All of my projects are available at [https://saurabhsingh-portfolio.vercel.app/] (https://saurabhsingh-portfolio.vercel.app/)
 
 - 💬 Ask me about **react,express,node,nextjs**
 
-- 📫 How to reach me **ss1380820@gmail.com**
+- 📫 How to reach me **https://x.com/saurabhnxt/**
 
 - ⚡ Fun fact **Daydreamer with a knack for noticing patterns**
 
